@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (286)" src="https://github.com/user-attachments/assets/19cac834-9980-4c1b-94c8-6eb50348138c" />
 # 📝 TaskFlow - Team Task Management System
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
